@@ -7,3 +7,9 @@ description: "Engineering Portfolio"
 
 # Build settings
 remote_theme: jekyll/minima
+
+#Projects
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
