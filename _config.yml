@@ -1,0 +1,9 @@
+# Site settings
+title: Marla Eisman
+author:
+  name: Marla Eisman
+  email: 
+description: "test"
+
+# Build settings
+remote_theme: jekyll/minima
