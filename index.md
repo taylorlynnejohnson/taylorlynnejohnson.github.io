@@ -4,7 +4,7 @@ title: "Marla Eisman | Portfolio"
 description: "Welcome to my portfolio website. I’m Marla Eisman, a PhD student focused on advanced control systems and intelligent robotics. Explore my projects and learn more about my background."
 ---
 
-# Welcome to My Portfolio
+# Welcome
 
 I’m Marla Eisman, a student in Mechanical Engineering specializing in intelligent mechatronic systems and nonlinear control theory. My work focuses on.....
 
@@ -23,4 +23,4 @@ Explore my work in robotics, control systems, and beyond:
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/marla-eisman-017ba5200).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marla-eisman-017ba5200/).
