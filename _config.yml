@@ -3,7 +3,7 @@ title: Marla Eisman
 author:
   name: Marla Eisman
   email: 
-description: "test"
+description: "Engineering Portfolio"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimal
