@@ -6,7 +6,7 @@ author:
 description: "Engineering Portfolio"
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
 
 #Projects
 collections:
