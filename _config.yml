@@ -19,7 +19,7 @@ collections:
 
 # Custom files to include
 include:
-  - assets/custom.css
+  - assets/css/custom.css
   - assets/images/IMG_9376.jpg
   # - assets/CV.pdf
   # - assets/transcript.pdf
