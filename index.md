@@ -4,7 +4,7 @@ title: "Home"
 ---
 # Marla Eisman
 
-![Profile Image](assets/images/profile.jpg)
+![Profile Image](assets/images/IMG_9376.jpeg)
 
 Contact: [email@domain.com](mailto:email@domain.com)  
 GitHub: [username](https://github.com/username)  
