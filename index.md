@@ -1,4 +1,7 @@
 ## Portfolio
+###
+
+I am a graduating senior mechanical engineer from the University of Florida. I am currently applying to PhD programs planning to research nonlinear controls, deep learning, and multi-agent systems. Take a look at my recent research projects:
 
 ---
 ### Original Residual Neural Networks (RNN)
