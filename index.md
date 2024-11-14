@@ -2,20 +2,25 @@
 
 ---
 ### Original Residual Neural Networks (RNN)
-<img src="images/rnn.jpg?raw=true"/> <img src="images/Figure_1.png?raw=true"/> <img src="images/Figure_2.png?raw=true"/>
-    I conducted an in-depth residual neural network architectural analysis to understand the effect of bias, neural depth, activation functions, and gains on system performance for double pendulum dynamics.  Based on the system’s results, I derived
+<div style="text-align: center;">
+  <img src="images/rnn.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/Figure_1.png?raw=true" width="400px" style="margin-right: 10px;"/>
+  <img src="images/Figure_2.png?raw=true" width="400px"/>
+</div>
+I conducted an in-depth residual neural network architectural analysis to understand the effect of bias, neural depth, activation functions, and gains on system performance for double pendulum dynamics.  Based on the system’s results, I derived
 original mathematical improvements to deep residual neural networks and proved the precise correspondence between the simulation and theoretical predictions.
     
 ### Herding Simulation with Deep Neural Networks (DNN)
-<img src="images/herding.gif?raw=true"/> 
-     I developed a herding model and experiment using DNNs to study coordination in multi-agent systems. I focused on applying adaptive, deep learning techniques, aimed at cooperative control in complex, dynamic environments.
+  <img src="images/herding.gif?raw=true" width="300px" style="margin-right: 10px;"/>
+I developed a herding model and experiment using DNNs to study coordination in multi-agent systems. I focused on applying adaptive, deep learning techniques, aimed at cooperative control in complex, dynamic environments.
 
 ### Multi-Agent Tracking Simulation with Outdoor Experiment using DNN
-<img src="images/tracking.jpg?raw=true"/>
-    I designed and executed a multi-agent tracking simulation complemented by an outdoor experiment, leveraging Deep Neural Networks. I implemented a residual neural network architecture for real-time target tracking in dynamic settings using IMU and GPS data through ROS 2.
+  <img src="images/drone.gif?raw=true" width="300px" style="margin-right: 10px;"/>
+    <img src="images/dronesim.gif?raw=true" width="300px" style="margin-right: 10px;"/>
+I designed and executed a multi-agent tracking simulation complemented by an outdoor experiment, leveraging Deep Neural Networks. I implemented a residual neural network architecture for real-time target tracking in dynamic settings using IMU and GPS data through ROS 2.
 
 ### Electric Vehicle (EV) Design with Gator Motorsports
-<img src="images/gms.jpg?raw=true"/>
+  <img src="images/gms.png?raw=true" width="300px" style="margin-right: 10px;"/>
     As soon as I arrived at UF, I joined the Formula SAE racing design team, Gator Motorsports, which
 designs, builds, and manufactures a Formula-style race car every year. I realized the team’s internal
 combustion vehicle lacked the performance and innovation of an electric vehicle (EV) powertrain. As a
@@ -41,10 +46,5 @@ reducing the global carbon footprint. I coordinated and led STEM education event
 students to visit our team’s shop and meet current members, providing up-close educational tours of our
 race car’s systems and manufacturing machines. My efforts as Vice President won the Blue Origin
 Diversity, Equity, and Inclusion Award in 2023, awarding $1,000 to our team.
-
----
-
-
-
 
 ---
