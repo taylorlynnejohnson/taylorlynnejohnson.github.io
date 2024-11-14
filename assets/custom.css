@@ -1,11 +1,36 @@
-/* Example styling */
-img {
-  width: 150px;
-  border-radius: 50%;
-  margin-right: 20px;
+/* Sidebar styling */
+.sidebar {
+  width: 25%;
   float: left;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
+/* Main content styling */
+.content {
+  width: 70%;
+  float: right;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Profile image styling */
+.profile-image {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+/* Contact information styling */
 .contact-info {
-  margin-top: 20px;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Clearfix for the layout */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
 }
