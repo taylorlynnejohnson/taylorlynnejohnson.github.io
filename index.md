@@ -1,26 +1,26 @@
 ---
-layout: home
-title: "Marla Eisman | Portfolio"
-description: "Welcome to my portfolio website. I’m Marla Eisman, a PhD student focused on advanced control systems and intelligent robotics. Explore my projects and learn more about my background."
+layout: default
+title: "Home"
 ---
+# Marla Eisman
 
-# Welcome
+![Profile Image](assets/images/profile.jpg)
 
-I’m Marla Eisman, a student in Mechanical Engineering specializing in intelligent mechatronic systems and nonlinear control theory. My work focuses on.....
+Contact: [email@domain.com](mailto:email@domain.com)  
+GitHub: [username](https://github.com/username)  
+[CV](./assets/CV.pdf)
 
-## Resume
+## About Me
+I’m a PhD student specializing in intelligent mechatronic systems, adaptive control theory, and assistive healthcare technologies. My work focuses on enhancing mobility solutions for people with neurodegenerative diseases and advancing clean energy technologies.
 
-[View My Resume](./resume)
+## On-Going Projects
 
-## Projects
+### Project Title 1
+Brief description of the project.
 
-Explore my work in robotics, control systems, and beyond:
+### Project Title 2
+Brief description of the project.
 
-- [Project 1: Autonomous Ground Robotics](./projects/ground_robotics) - An exploration into multi-agent dynamics using visual recognition.
-- [Project 2: Assistive Robotic Systems](./projects/assistive_robotics) - Developing real-time adaptive control for healthcare applications.
-- [Project 3: Electric Vehicle Technologies](./projects/electric_vehicles) - Research on sustainable, intelligent systems for electric mobility.
-- [Project 4: Neural Network Architectures](./projects/neural_networks) - Deep residual neural networks for multi-agent target tracking.
-
-## Connect with Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marla-eisman-017ba5200/).
+## News
+- **2024.11** Starting my PhD program at [University Name](https://university-website.edu) under [Advisor Name](https://advisor-link.edu).
+- **2024.04** Published paper in Journal XYZ.
