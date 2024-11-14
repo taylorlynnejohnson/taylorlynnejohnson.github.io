@@ -7,7 +7,7 @@ title: "Home"
 
   <!-- Sidebar -->
   <div class="sidebar">
-    <img src="/assets/images/profile.jpg" alt="Marla Eisman" class="profile-image">
+    <img src="/assets/images/IMG_9376.jpeg" alt="Marla Eisman" class="profile-image">
     
     <div class="contact-info">
       **Contact:** [youremail@example.com](mailto:youremail@example.com)  
