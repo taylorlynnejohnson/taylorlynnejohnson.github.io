@@ -41,8 +41,8 @@ I developed a machine learning model that integrates with a techno-economic mode
 
 ### Machine learning to discover novel Li-ion conductors  
 <div style="text-align: center;">
-  <img src="images/DOS_net_data.png?raw=true" width="300px" style="margin-right: 10px;"/>
-  <img src="images/DOSNETprediction?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/DOSnet_data.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/DOSNETprediction.png?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
 Through the MICRO program, I researched the use of CGCNNs to discover novel superionic conductors at MIT's Electrochemical Energy Laboratory.
 
