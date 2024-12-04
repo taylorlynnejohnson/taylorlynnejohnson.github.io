@@ -25,7 +25,7 @@ My first project at the NSTTF focused on the development of a TEA model for a hy
 
 ### Future work at the NSTTF: G3P3 performance-based TEA
 <div style="text-align: center;">
-  <img src="images/sandiatower.png?raw=true" width="250px" style="margin-right: 10px;"/>
+  <img src="images/sandiatower.jpg?raw=true" width="250px" style="margin-right: 10px;"/>
   </div>
 
 
