@@ -39,6 +39,21 @@ As we approach the commissioning of the Gen 3 Partical Pilot Plant (G3P3) at the
   </div>
 I developed a machine learning model that integrates with a techno-economic model to predict the performance and cost of an external concentrating parabolic collector (XCPC), which I am converting to an open-source tool to support solar thermal adoption.
 
+### Machine learning to discover novel Li-ion conductors  
+<div style="text-align: center;">
+  <img src="images/DOS_net_data.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/DOSNETprediction?raw=true" width="300px" style="margin-right: 10px;"/>
+  </div>
+Through the MICRO program, I researched the use of CGCNNs to discover novel superionic conductors at MIT's Electrochemical Energy Laboratory.
+
+### STCH redox materials exploration 
+<div style="text-align: center;">
+  <img src="images/LSMG.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  </div>
+
+##E Engineers Without Borders work 
+
+
 
 
 ---
