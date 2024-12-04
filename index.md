@@ -28,6 +28,7 @@ My current work at the NSTTF focuses on the design of a radial packed bed TES sy
 <div style="text-align: center;">
   <img src="images/sandiatower.jpg?raw=true" width="250px" style="margin-right: 10px;"/>
   </div>
+As we approach the commissioning of the Gen 3 Partical Pilot Plant (G3P3) at the NSTTF, I will be spending the next six months on performance-based TEA modeling to help validate the system’s cost-effectiveness relative to current tower technologies.
 
 
 ### XCPC Performance Prediction
