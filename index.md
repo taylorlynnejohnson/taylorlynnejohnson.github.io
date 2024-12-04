@@ -17,6 +17,12 @@ At NREL, I focused on advancing solutions to decarbonize industrial process heat
   </div>
 My first project at the NSTTF focused on the development of a TEA model for a hybrid PV-CSP system with thermal energy storage. The model helped the startup evaluate the levelized cost of electricity of their system in different geographical locations, along with optimal component sizing and operational strategies to maximize efficiency and minimize cost. I am preparing a first author paper on this work for submission to the Journal of Solar Energy. 
 
+### Mi'kmaq Tribe Greenhouse Radial Packed Bed TES 
+<div style="text-align: center;">
+  <img src="images/Temperature History-TCF.avi?raw=true" width="250px" style="margin-right: 10px;"/>
+  
+  </div>
+
 
 ### XCPC Performance Prediction
 <div style="text-align: center;">
