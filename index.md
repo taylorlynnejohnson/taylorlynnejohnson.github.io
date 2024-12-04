@@ -13,7 +13,7 @@ At NREL, I focused on advancing solutions to decarbonize industrial process heat
 
 ### Techno-economic analysis of a PV-CSP-TES system with sCO2 power block
 <div style="text-align: center;">
-  <img src="images/PV_geo_pic.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/PV_geo_pic.png?raw=true" width="200px" style="margin-right: 10px;"/>
   </div>
 My first project at the NSTTF focused on the development of a TEA model for a hybrid PV-CSP system with thermal energy storage. The model helped the startup evaluate the levelized cost of electricity of their system in different geographical locations, along with optimal component sizing and operational strategies to maximize efficiency and minimize cost. I am preparing a first author paper on this work for submission to the Journal of Solar Energy. 
 
