@@ -6,8 +6,10 @@ I am a senior mechanical engineering student at the University of Florida and a 
 ### Decarbonizing industrial process heat with particle TES
 <div style="text-align: center;">
   <img src="images/nrel_award_pic.png?raw=true" alt="Award">
-    <img src="images/NREL_posterpic.png?raw=true" alt="Poster Presentation">
-    <img src="images/NRELjumpingpic.png?raw=true" alt="NREL Visit">
+  <img src="images/NREL_posterpic.png?raw=true" alt="Poster Presentation">
+  <img src="images/NRELjumpingpic.png?raw=true" alt="NREL Visit">
+  <img src="images/PV_geo_pic.png?raw=true" alt="NREL Visit">
+  
   </div>
 At NREL, I focused on advancing solutions to decarbonize industrial process heat—a significant contributor to global greenhouse gas emissions. Building on NREL's ENDURING project, I developed a techno-economic analysis model in Python to optimize the sizing and cost of a CSP-PV system integrated with particle TES. Our work demonstrated the system's ability to provide solar thermal energy to the Searles Valley Mining facility, one of California's largest CO2 emitters, with an LCOE of less than 3 cents/kWhth. I presented these results at the 18th Intl Conference on Energy Sustainability in Anaheim, and ASME awarded our work the Outstanding Paper Award.
 
