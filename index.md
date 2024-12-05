@@ -54,7 +54,7 @@ Through the MICRO program, I researched the use of CGCNNs to discover novel supe
 ### Teaching 
 <div style="text-align: center;">
   <img src="images/industrialTA.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
-  <img src="images/almeriapic.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/almeriapic.jpeg?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/collectors.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
 
