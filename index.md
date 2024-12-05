@@ -54,11 +54,17 @@ Through the MICRO program, I researched the use of CGCNNs to discover novel supe
 ### Teaching 
 <div style="text-align: center;">
   <img src="images/industrialTA.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/industrialTA.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/industrialTA.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
 
 ### Engineers Without Borders work 
 <div style="text-align: center;">
   <img src="images/ewb_pic.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/ewb_roof.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/meetingwithmaras.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/monktower.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/monktowercad.png?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
 
 
