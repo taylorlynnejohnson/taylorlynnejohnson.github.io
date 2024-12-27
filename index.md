@@ -24,7 +24,7 @@ My first project at the NSTTF focused on the development of a TEA model for a hy
   </div>
 My current work at the NSTTF focuses on the design of a radial packed bed TES system charged by photovoltaics to provide heat for a greenhouse serving the Native American Mi’kmaq tribe of Northern Maine, simulating the system’s performance under dynamic charging and discharging cycles and developing a heat loss model to optimize system components sizing. This project will be used to demonstrate the commercial potential of radial packed bed TES in decarbonizing process heat. 
 
-### Future work at the NSTTF: G3P3 performance-based TEA
+### G3P3 performance-based TEA
 <div style="text-align: center;">
   <img src="images/sandiatower.jpg?raw=true" width="250px" style="margin-right: 10px;"/>
   </div>
