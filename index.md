@@ -17,7 +17,7 @@ At NREL, I focused on advancing solutions to decarbonize industrial process heat
   </div>
 My first project at the NSTTF focused on the development of a TEA model for a hybrid PV-CSP system with thermal energy storage. The model helped the startup evaluate the levelized cost of electricity of their system in different geographical locations, along with optimal component sizing and operational strategies to maximize efficiency and minimize cost. I am preparing a first author paper on this work for submission to the Journal of Solar Energy. 
 
-### Mi'kmaq Tribe Greenhouse Radial Packed Bed TES 
+### Radial Packed Bed TES design
 <div style="text-align: center;">
   <img src="images/temphistorymmg.gif?raw=true" width="250px" style="margin-right: 10px;"/>
   <img src="images/sandiammpackedbed.png?raw=true" width="250px" style="margin-right: 10px;"/>
@@ -31,7 +31,7 @@ My current work at the NSTTF focuses on the design of a radial packed bed TES sy
 As we approach the commissioning of the Gen 3 Partical Pilot Plant (G3P3) at the NSTTF, I will be spending the next six months on performance-based TEA modeling to help validate the system’s cost-effectiveness relative to current tower technologies.
 
 
-### XCPC Performance Prediction
+### XCPC performance prediction
 <div style="text-align: center;">
   <img src="images/xcpc_nn_data.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/XCPCpic.png?raw=true" width="300px" style="margin-right: 10px;"/>
