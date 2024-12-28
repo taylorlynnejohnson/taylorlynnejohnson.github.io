@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a senior mechanical engineering student at the University of Florida and a thermal sciences R&D intern at Sandia National Labs' National Solar Thermal Test Facility. My work focuses on scalable, cost-effective, and dispatchable energy storage systems to enable rapid decarbonization. My research at NREL, Sandia's NSTTF, MIT, and UF has focused on high-temperature thermal energy storage, alternative hydrogen production, and machine learning for energy sustainability: 
+I am a senior mechanical engineering student at the University of Florida and a thermal sciences R&D intern at Sandia National Labs' National Solar Thermal Test Facility. My work focuses on scalable, cost-effective energy storage systems to enable rapid decarbonization. My research at NREL, Sandia's NSTTF, MIT, and UF has focused on thermal energy storage, alternative hydrogen production, and machine learning for energy sustainability: 
 
 ---
 ### Decarbonizing industrial process heat with particle TES
