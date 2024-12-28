@@ -63,7 +63,7 @@ I hope to dedicate my life’s work to research and mentorship of the next gener
 ### Engineers Without Borders work 
 <div style="text-align: center;">
   <img src="images/monktowercad.png?raw=true" width="300px" style="margin-right: 10px;"/>
-  <img src="images/cantilever_reservoir?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/cantilever_reservoir.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/ewb_pic.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/meetingwithmaras.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/upd_tankpic.png?raw=true" width="300px" style="margin-right: 10px;"/>
