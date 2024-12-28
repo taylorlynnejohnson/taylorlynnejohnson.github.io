@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <i class="fas fa-file"></i> <a href="/cv/">CV</a> <!-- Link to the CV page -->
   <br>
-  <i class="fas fa-hands-helping"></i> <a href="/volunteer/">Volunteer Work</a> <!-- Link to the Volunteer Work page -->
+  <i class="fas fa-hands-helping"></i> <a href="/volunteer/">Publications</a> <!-- Link to the Volunteer Work page -->
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
