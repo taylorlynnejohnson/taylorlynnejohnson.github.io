@@ -58,7 +58,7 @@ I spent a year exploring novel metal oxides for STCH at UF’s RECL, conducting 
   <img src="images/almeriapic.jpeg?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/collectors.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
-I hope to dedicate my life’s work to research and mentorship of the next generation of sustainability engineers, a passion I discovered through my extensive experience as a teaching assistant for classes in Solar Energy Utilization (EML6417), Heat Transfer, Fluid Mechanics, Thermodynamics, and Computer-Aided Design, along with a study abroad course in Spain on next-generation energy technologies taught by Drs. Aldo Steinfeld and Jonathan Scheffe, where I connected students with research opportunities and shared insights from my work.  
+I hope to dedicate my life’s work to research and mentorship of the next generation of sustainability engineers, a passion I discovered through my extensive experience as a teaching assistant for classes in Solar Energy Utilization (EML6417), Heat Transfer (EML4140), Fluid Mechanics (EGN3353C), Thermodynamics (EML3100), and Computer-Aided Design (EML2023), along with a study abroad course in Spain on next-generation energy technologies taught by Drs. Aldo Steinfeld and Jonathan Scheffe, where I connected students with research opportunities and shared insights from my work.  
 
 ### Engineers Without Borders work 
 <div style="text-align: center;">
