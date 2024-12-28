@@ -63,10 +63,11 @@ I hope to dedicate my life’s work to research and mentorship of the next gener
 ### Engineers Without Borders work 
 <div style="text-align: center;">
   <img src="images/monktowercad.png?raw=true" width="300px" style="margin-right: 10px;"/>
-  <img src="images/cantilever_reservoir.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/ewb_roof.jpg?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/ewb_pic.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/meetingwithmaras.png?raw=true" width="300px" style="margin-right: 10px;"/>
   <img src="images/upd_tankpic.png?raw=true" width="300px" style="margin-right: 10px;"/>
+  <img src="images/cantilever_reservoir.png?raw=true" width="300px" style="margin-right: 10px;"/>
   </div>
 My work is fueled by a passion rooted in the understanding that the research I conduct in the lab has the potential for tangible impacts on the lives of those most affected by global warming. I have spent the last four years working on water quantity and quality projects in Maras, Peru, as part of my university’s Engineers Without Borders team. Last year I served as the design lead for this team, leading weekly meetings to discuss project updates, collaborating with community partners and professional engineers, and guiding research and design efforts through the delegation of project tasks. Through my time on this team, I have worked on a team of student engineers to design a sluice gate and irrigation reservoir serving over 60 farmers in the region, and personally led the assessment and design phase for a project bringing running water to the region’s only medical clinic, which will be implemented in the next year. These experiences shaped my understanding of the urgent need to develop reliable and affordable renewable energy technologies and motivated my pursuit of graduate studies in this field. 
 
