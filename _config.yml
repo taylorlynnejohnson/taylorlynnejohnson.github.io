@@ -10,8 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <i class="fas fa-file"></i> <strong>View PDF here:</strong> <a href="/cv/">CV</a> <!-- Link to the CV page -->
   <br><br>
-  <i class="fas fa-hands-helping"></i> <strong>Publications:</strong>  <a href="/volunteer/">Publications</a> <!-- Link to the Volunteer Work page -->
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
